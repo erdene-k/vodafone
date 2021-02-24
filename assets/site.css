@@ -1,0 +1,39 @@
+html{
+    height: 100%;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+   
+}
+hr {
+    width: 5%;
+    padding:1.2px;
+    background-color:#ff0000;
+    opacity: .99;
+
+}
+h2 { font-size: 34px; 
+    color: #000000;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:#696969;
+    font-size: 20px;
+}
+h4{
+text-align: center;
+}
+
+.btn {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid red;
+    background-color: red;
+    bottom: 2%; 
+    left: 90%;
+}
